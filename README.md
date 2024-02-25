@@ -7,11 +7,11 @@ The application enables users to create courses and trades within the realm of c
    - git clone https://github.com/FGiannini95/Proyecto-Final-Bootcamp-SocraTech.git
 2. Move to the application folder:
    - cd Proyecto-Final-Bootcamp-SocraTech
-4. Install the dependencies:
+3. Install the dependencies:
    - npm i
-5. Start the application:
+4. Start the application:
    - npm run dev
-6. Control + click on the terminal message like this (the port may be different):
+5. Control + click on the terminal message like this (the port may be different):
    - Local:   http://localhost:5173/
 ## Videos
 - You can see my explication of the project in the following link: https://youtu.be/B4JPTwi-Dq4?t=1406
